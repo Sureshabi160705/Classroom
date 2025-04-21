@@ -1,0 +1,14 @@
+django
+gunicorn
+whitenoise
+beautifulsoup4
+cffi
+django-bootstrap4
+django-misaka
+houdini.py
+misaka
+pycparser
+Pygments
+pytz
+soupsieve
+sqlparse
